@@ -14,7 +14,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install -r requirements.txt
 
 # Clone the repository
-git clone https://github.com/MolMMP.git
+git clone https://github.com/HpuBioinformatics/MolMMP.git
 cd MolMMP
 Dataset
 You can download the dataset file under https://github.com/ThomasSu1/SynthMol/tree/main/Data.
